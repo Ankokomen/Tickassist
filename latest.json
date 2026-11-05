@@ -1,6 +1,6 @@
 {
   "version": "5.0",
   "url": "TickAssist-Lite-5.0-update.zip",
-  "sha256": "b2fe07caacc8ed2225827fcac50c961e006a83748e5298ee63adb3fc3208ef0a",
+  "sha256": "4d04b9582ed96ea1b512f7fc4bf0c00acb1d7f0a642f17c86442d8d79d7283ff",
   "notes": "TickAssist 5. Lite can export the day's session (tickets, photos, lists, macros) as a .db file for the full edition's Merge Databases (Ticket Repository > Export for full TickAssist). The update address defaults to https://github.com/Ankokomen/Tickassist-Updates. Romexis versions are exempt from sheet verification (free text with suggestions, added on save, left out of Import from sheets). A fresh copy starts with the Imaging Package sheet and its column mapping already set."
 }
