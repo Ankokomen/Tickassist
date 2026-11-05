@@ -1,6 +1,6 @@
 {
-  "version": "5.0",
-  "url": "TickAssist-Lite-5.0-update.zip",
-  "sha256": "a12264041d75e28a534fe82882e6cf8bf3514c0537df971f944a4f7bd6d48ac6",
-  "notes": "TickAssist 5. Lite can export the day's session (tickets, photos, lists, macros) as a .db file for the full edition's Merge Databases (Ticket Repository > Export for full TickAssist). The update address defaults to https://github.com/Ankokomen/Tickassist-Updates. Romexis versions are exempt from sheet verification (free text with suggestions, added on save, left out of Import from sheets). A fresh copy starts with the Imaging Package sheet and its column mapping already set."
+  "version": "5.1",
+  "url": "TickAssist-Lite-5.1-update.zip",
+  "sha256": "cec2f19b7021bf2092b9d2d29d65065f3aa18690a4179675fa250729a49d4bdc",
+  "notes": "The call-transfer address (https://planmecawiki.com/tools/signal.php) is built in, so it no longer has to be entered. Every transfer is logged to transfer-log.txt in the data folder with what the service replied, and the Transfer drawer has an \"Open the transfer page in my browser instead\" button."
 }
