@@ -1,6 +1,6 @@
 {
-  "version": "5.1",
-  "url": "TickAssist-Lite-5.1-update.zip",
-  "sha256": "cec2f19b7021bf2092b9d2d29d65065f3aa18690a4179675fa250729a49d4bdc",
-  "notes": "The call-transfer address (https://planmecawiki.com/tools/signal.php) is built in, so it no longer has to be entered. Every transfer is logged to transfer-log.txt in the data folder with what the service replied, and the Transfer drawer has an \"Open the transfer page in my browser instead\" button."
+  "version": "5.2",
+  "url": "TickAssist-Lite-5.2-update.zip",
+  "sha256": "fb8cc3237ec3a09b17be127121d977245140de29ac5971ccaea958009ef70497",
+  "notes": "A minimized MAX window can't be read by Windows, so the call watcher now says so on its status line. New option \"Also read MAX while it is minimized\" (Settings > Incoming calls, off by default) briefly shows the minimized window without taking focus, reads it, and minimizes it again."
 }
