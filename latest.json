@@ -1,6 +1,6 @@
 {
-  "version": "5.3",
-  "url": "TickAssist-Lite-5.3-update.zip",
-  "sha256": "7fb11a5902321ef2dbd2add5a50723e0fb2daa9896f275ad513da994d7d61ebb",
-  "notes": "Read MAX in the background. \"Open MAX\" (Settings > Incoming calls, and a \"TickAssist - Open MAX\" desktop/Start shortcut made by the installer) opens MAX in Chrome or Edge in its own profile with a local-only debugging port. TickAssist then reads the MAX tab and the call page's address straight from the browser, so MAX can be minimized, behind other windows or on another screen. The old window reader still runs alongside. New settings: MAX address and browser."
+  "version": "5.4",
+  "url": "TickAssist-Lite-5.4-update.zip",
+  "sha256": "b4ac8159cb5396eadd63fe106e5ebfd838edfd9875ed6a63253d691fe27f9456",
+  "notes": "Removed \"Also read MAX while it is minimized\" (it briefly popped the window up). Use Open MAX instead to read MAX in the background. The Features page no longer asks for an owner password: switch features on or off and press Save."
 }
