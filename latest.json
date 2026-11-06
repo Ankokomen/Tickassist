@@ -1,6 +1,6 @@
 {
-  "version": "5.2",
-  "url": "TickAssist-Lite-5.2-update.zip",
-  "sha256": "fb8cc3237ec3a09b17be127121d977245140de29ac5971ccaea958009ef70497",
-  "notes": "A minimized MAX window can't be read by Windows, so the call watcher now says so on its status line. New option \"Also read MAX while it is minimized\" (Settings > Incoming calls, off by default) briefly shows the minimized window without taking focus, reads it, and minimizes it again."
+  "version": "5.3",
+  "url": "TickAssist-Lite-5.3-update.zip",
+  "sha256": "7fb11a5902321ef2dbd2add5a50723e0fb2daa9896f275ad513da994d7d61ebb",
+  "notes": "Read MAX in the background. \"Open MAX\" (Settings > Incoming calls, and a \"TickAssist - Open MAX\" desktop/Start shortcut made by the installer) opens MAX in Chrome or Edge in its own profile with a local-only debugging port. TickAssist then reads the MAX tab and the call page's address straight from the browser, so MAX can be minimized, behind other windows or on another screen. The old window reader still runs alongside. New settings: MAX address and browser."
 }
