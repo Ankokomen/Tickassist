@@ -1,6 +1,6 @@
 {
   "version": "5.4",
   "url": "TickAssist-Lite-5.4-update.zip",
-  "sha256": "b4ac8159cb5396eadd63fe106e5ebfd838edfd9875ed6a63253d691fe27f9456",
+  "sha256": "a362d46a9f3ae63b99052cee1f994c322cdf83b271f33efaa4a02b048ea8d49e",
   "notes": "Removed \"Also read MAX while it is minimized\" (it briefly popped the window up). Use Open MAX instead to read MAX in the background. The Features page no longer asks for an owner password: switch features on or off and press Save."
 }
